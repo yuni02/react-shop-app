@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Next.js완전정복:확장성높은커머스서비스구축하기
+## 100가지 시나리오로 학습하는 프론트엔드 :
 
 First, run the development server:
 
